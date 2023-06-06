@@ -2,7 +2,7 @@
 
 Lund University, June 07, 2023
 
-In this repository we collect jupyter notebooks for the workshop, but also for further reading. We will mainly create notebooks from scratch, but these will help to view the entire process.
+In this repository we collect jupyter notebooks for the workshop, but also for further reading. We will mainly create notebooks from scratch, but these will help to view the entire process and to look for errors.
 
 
 Further reading:
