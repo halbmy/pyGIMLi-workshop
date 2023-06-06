@@ -1,6 +1,8 @@
-# pyGIMLi-workshop
+# pyGIMLi-workshop: DC/IP modelling and inversion with pyGIMLi/pyBERT
 
-In this repository we collect jupyter notebooks, so far mainly for a DC/IP focused workshop at Lund university.
+Lund University, June 07, 2023
+
+In this repository we collect jupyter notebooks for the workshop, but also for further reading. We will mainly create notebooks from scratch, but these will help to view the entire process.
 
 
 Further reading:
