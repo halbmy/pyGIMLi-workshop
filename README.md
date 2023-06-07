@@ -5,8 +5,9 @@ Lund University, June 07, 2023
 In this repository we collect jupyter notebooks for the workshop, but also for further reading. We will mainly create notebooks from scratch, but these will help to view the entire process and to look for errors.
 
 
-Further reading:
+Further information (some already included here):
 * pygimli Website https://www.pygimli.org
+* gimli github page (Issues etc.) https://github.com/gimli-org/gimli
 * BERT project page https://gitlab.com/resistivity-net/bert
 * Transform 2021 tutorial https://github.com/gimli-org/transform2021 with video
 * Transform 2022 tutorial https://github.com/gimli-org/transform2022 with video
@@ -16,4 +17,4 @@ The whole workshop is based on Jupyter Notebooks.
 
 First start with some introduction and installation stuff at https://github.com/halbmy/pyGIMLi-workshop/blob/main/0_start/installation.ipynb
 
-Then we proceed with some basic stuff. Just go to the different subfolders.
+Then we proceed with some basic stuff. Just go to the different subfolders and watch the notebooks. And create some by your own from scatch! Good luck!
