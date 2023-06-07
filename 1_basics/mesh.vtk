@@ -1,0 +1,29 @@
+# vtk DataFile Version 3.0
+d-2__ created by libgimli-v1.4.0
+ASCII
+DATASET UNSTRUCTURED_GRID
+POINTS 8 double
+0	0	0
+1	0	0
+2	0	0
+0	1	0
+1	1	0
+2	1	0
+0.5	1.7	0
+1.5	1.7	0
+CELLS 5 22
+4	0	1	4	3	
+4	1	2	5	4	
+3	3	4	6	
+3	4	5	7	
+3	6	7	4	
+CELL_TYPES 5
+9 9 5 5 5 
+CELL_DATA 5
+SCALARS Marker double 1
+LOOKUP_TABLE default
+4 4 3 3 3 
+SCALARS velocity double 1
+LOOKUP_TABLE default
+10 11 12 13 14 
+POINT_DATA 8
